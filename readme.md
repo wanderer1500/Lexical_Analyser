@@ -25,8 +25,8 @@
    - use command g++ token.cpp
    - ./a.out
    - give input string 
-   - press Enter after you have completed giving the string
-   - to exit press Enter two times
+   - press Enter two times after you have completed giving the string
+   
 ## Examples
 - Example1
 
