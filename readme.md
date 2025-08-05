@@ -43,5 +43,5 @@
 
 - Example3
 
-  <img src = "./example3.png" height = 200 width = 200>
+  <img src = "./example3.png" height = 400 width = 400>
    
